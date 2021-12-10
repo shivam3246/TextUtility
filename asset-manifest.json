@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TextUtility/static/css/main.16e18a48.chunk.css",
+    "main.js": "/TextUtility/static/js/main.caee5c50.chunk.js",
+    "main.js.map": "/TextUtility/static/js/main.caee5c50.chunk.js.map",
+    "runtime-main.js": "/TextUtility/static/js/runtime-main.05ea29f3.js",
+    "runtime-main.js.map": "/TextUtility/static/js/runtime-main.05ea29f3.js.map",
+    "static/js/2.2b110539.chunk.js": "/TextUtility/static/js/2.2b110539.chunk.js",
+    "static/js/2.2b110539.chunk.js.map": "/TextUtility/static/js/2.2b110539.chunk.js.map",
+    "static/js/3.42ad0d3d.chunk.js": "/TextUtility/static/js/3.42ad0d3d.chunk.js",
+    "static/js/3.42ad0d3d.chunk.js.map": "/TextUtility/static/js/3.42ad0d3d.chunk.js.map",
+    "index.html": "/TextUtility/index.html",
+    "precache-manifest.d8286fee0fc52a3f297d78ce387d20dc.js": "/TextUtility/precache-manifest.d8286fee0fc52a3f297d78ce387d20dc.js",
+    "service-worker.js": "/TextUtility/service-worker.js",
+    "static/css/main.16e18a48.chunk.css.map": "/TextUtility/static/css/main.16e18a48.chunk.css.map",
+    "static/js/2.2b110539.chunk.js.LICENSE.txt": "/TextUtility/static/js/2.2b110539.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05ea29f3.js",
+    "static/js/2.2b110539.chunk.js",
+    "static/css/main.16e18a48.chunk.css",
+    "static/js/main.caee5c50.chunk.js"
+  ]
+}
